@@ -8,19 +8,17 @@
 
 ---
 
-### hey 👋
+### hey
 
-I'm Eduardo — a software engineering student at **PUCRS** (Porto Alegre, Brazil) who's also been doing fullstack dev professionally since 2025.
+I'm Eduardo, a software engineering student at **PUCRS** in Porto Alegre who also works as a fullstack dev. 
 
-By day I'm an intern at [**Aegro**](https://aegro.com.br), working with Spring Boot + Angular on a platform used by real farms at scale. By night I'm either hacking away at a side project, studying for another class I probably won't sleep through, or leading a hackathon team that definitely won't sleep either.
-
-Also spent some time in **Burnaby, Canada** in 2023 — great country, terrible weather, 10/10 would go back.
+Intern at [**Aegro**](https://aegro.com.br)
 
 ```
-📍 Porto Alegre, Brazil
-🎓 Software Engineering @ PUCRS — graduating Dec 2027
-💼 Fullstack Dev Intern @ Aegro Informática
-🏆 Hackathon PUCRS — 2024 (Frontend Dev) & 2025 (Team Lead)
+Porto Alegre, Brazil
+Software Engineering @ PUCRS — graduating Dec 2027
+Fullstack Dev Intern @ Aegro Informatica
+Hackathon PUCRS — 2024 (Frontend) & 2025 (Team Lead)
 ```
 
 ---
@@ -62,14 +60,14 @@ Also spent some time in **Burnaby, Canada** in 2023 — great country, terrible 
 
 ### things i've built
 
-**[FluiMap](https://github.com/caBatista/fluimap)** — Team analytics platform with interactive dashboards. Built with a team, shipped it anyway.
+**[FluiMap](https://github.com/caBatista/fluimap)** — First AGES(group project that also counts as my thesis)
 `Next.js` `MongoDB` `Docker`
 
-**[Feedbackz](https://github.com/eduardo-r-rodrigues/Frontend-Feedbacks)** — Peer feedback platform from Hackathon PUCRS 2025. Led the team, survived.
+**[Feedbackz](https://github.com/eduardo-r-rodrigues/Frontend-Feedbacks)** — Peer feedback platform. Second Hackathon project. Designed the UI in Figma, led the team, shipped it in 24 hours.
 `Next.js` `React` `MySQL`
 
-**[Microservices Study](https://github.com/eduardo-r-rodrigues)** — Exploring distributed systems architecture because monoliths are cowardly.
-`Java` `Spring Boot`
+**[Microservices Study](http://github.com/eduardo-r-rodrigues/t1-projarq-pucrs)** — College project that first introduced me to Microservices. Also, a frontend to visualize it working :D
+`Java` `Spring Boot` `MongoDB` `React` 
 
 ---
 
