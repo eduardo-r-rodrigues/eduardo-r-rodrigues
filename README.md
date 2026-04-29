@@ -18,7 +18,6 @@ Intern at [**Aegro**](https://aegro.com.br)
 Porto Alegre, Brazil
 Software Engineering @ PUCRS — graduating Dec 2027
 Fullstack Dev Intern @ Aegro Informatica
-Hackathon PUCRS — 2024 (Frontend) & 2025 (Team Lead)
 ```
 
 ---
