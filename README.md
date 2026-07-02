@@ -12,7 +12,7 @@
 
 I'm Eduardo, a software engineering student at **PUCRS** in Porto Alegre who also works as a fullstack dev. 
 
-Intern at [**Aegro**](https://aegro.com.br)
+Fullstack dev at [**Aegro**](https://aegro.com.br)
 
 ```
 Porto Alegre, Brazil
