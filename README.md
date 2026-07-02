@@ -17,7 +17,7 @@ Fullstack dev at [**Aegro**](https://aegro.com.br)
 ```
 Porto Alegre, Brazil
 Software Engineering @ PUCRS — graduating Dec 2027
-Fullstack Dev Intern @ Aegro Informatica
+Fullstack Dev @ Aegro Informatica
 ```
 
 ---
